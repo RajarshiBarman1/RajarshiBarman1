@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning/revising python through harvard's cs50 introduction to python course.<br>
          Previously, I have studied python in my +2 schooling years (US equivalent: Senior & Junior years in High school).
 - 💞️ I’m looking to collaborate on Beginner-Friendly open source python projects
-- 📫 How to reach me: consistencyoverintensityichiza@gmail.com (Gmail)
+- 📫 How to reach me: consistencyoverintensityichiza@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Owner of an anime/manga discord server with 250+ members.
 
