@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Beginner-Friendly Open Source ython projects
 - 📫 How to reach me: consistencyoverintensityichiza@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Owner of a Discord server with 250+ members.
+- ⚡ Fun fact: Owner of a Discord server with 250+ members
 
 <!---
 RajarshiBarman1/RajarshiBarman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
